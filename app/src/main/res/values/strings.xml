@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="by_developer">by osisupermoses</string>
+    <string name="you_cant_go_back">You can\'t go back to the previous question. Double-click to exit.</string>
+</resources>
